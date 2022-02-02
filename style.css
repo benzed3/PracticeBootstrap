@@ -1,9 +1,37 @@
 /*navbar stying*/
 
+body {
+    margin: 0;
+}
+
 .navbar {
     padding: 15px 0 15px 0;
 }
 
-a {
-    text-align: right;
+
+/*container styling*/
+
+.container {
+    background: black;
+    color: white;
+    margin-top: 50px;
+    padding: 0 30px 0 30px;
+}
+
+h2 {
+    padding-top: 8px;
+}
+
+img {
+    float: left;
+}
+
+#p1 {
+    float: left;
+    width: 70%;
+}
+
+#p2 {
+    width: 100%;
+    clear: both;
 }
