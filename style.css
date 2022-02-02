@@ -22,13 +22,18 @@ h2 {
     padding-top: 8px;
 }
 
+hr:not([size]) {
+    height: 1.5px;
+}
+
 img {
     float: left;
 }
 
 #p1 {
     float: left;
-    width: 70%;
+    width: 80%;
+    padding-left: 30px;
 }
 
 #p2 {
