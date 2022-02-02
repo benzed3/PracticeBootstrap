@@ -34,9 +34,16 @@ img {
     float: left;
     width: 80%;
     padding-left: 30px;
+    line-height: 2;
 }
 
 #p2 {
     width: 100%;
     clear: both;
+    padding-top: 30px;
+    line-height: 2;
+}
+#p3 {
+    width: 100%;
+    line-height: 2;
 }
