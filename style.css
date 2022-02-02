@@ -62,3 +62,12 @@ img {
     height: 50px;
     background: gray;
 }
+
+@media screen and (max-width: 1199px) {
+    
+    #footer {
+        position: absolute;
+        bottom: 0;
+    }
+    
+}
