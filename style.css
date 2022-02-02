@@ -8,6 +8,10 @@ body {
     padding: 15px 0 15px 0;
 }
 
+.navbar>.container-fluid {
+    padding-left: 120px;
+}
+
 
 /*container styling*/
 
@@ -18,6 +22,7 @@ body {
     padding: 0 30px 0 30px;
     font-family: 'Quintessential', cursive;
     border-radius: 10px;
+    position: relative;
 }
 
 h2 {
@@ -50,10 +55,9 @@ img {
     line-height: 2;
 }
 
-.footer {
-    position: fixed;
+#footer {
+    position: absolute;
     bottom: 0;
-    left: 0;
     width: 100%;
     height: 50px;
     background: gray;
