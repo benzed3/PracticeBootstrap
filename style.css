@@ -80,3 +80,11 @@ img {
     }
     
 }
+
+@media screen and (max-width: 991px) {
+
+    #p1 {
+        width: 65%;
+    }
+
+}
