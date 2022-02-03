@@ -83,6 +83,10 @@ img {
 
 @media screen and (max-width: 991px) {
 
+    img {
+        margin-top: 75px;
+    }
+
     #p1 {
         width: 65%;
     }
