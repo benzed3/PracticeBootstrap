@@ -65,9 +65,17 @@ img {
 }
 
 @media screen and (max-width: 1199px) {
+
+    .container {
+        margin-bottom: 100px;
+    }
+
+    #p1 {
+        width: 75%;
+    }
     
     #footer {
-        position: absolute;
+        position: fixed;
         bottom: 0;
     }
     
