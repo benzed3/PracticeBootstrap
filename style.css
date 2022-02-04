@@ -148,3 +148,21 @@ img {
     }
 
 }
+
+@media screen and (max-width: 415px) and (max-height: 897px) {
+
+    .container {
+        width: 90%;
+    }
+
+    img {
+        width: 40%;
+        margin-top: 15px;
+        margin-left: 85px;
+    }
+
+    #p1 {
+        width: 95%;
+    }
+
+}
