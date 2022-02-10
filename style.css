@@ -115,6 +115,10 @@ img {
         margin-top: 20px;
     }
 
+    #p3 {
+        margin-bottom: 20px;
+    }
+
 }
 
 @media screen and (max-width: 768px) {
