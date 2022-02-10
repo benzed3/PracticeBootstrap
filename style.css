@@ -107,6 +107,11 @@ img {
         margin-top: 85px;
     }
 
+    img {
+        float: left;
+        margin-top: 20px;
+    }
+
 }
 
 @media screen and (max-width: 768px) {
