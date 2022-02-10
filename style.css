@@ -106,7 +106,10 @@ img {
     .container {
         margin-top: 85px;
     }
-
+    
+    h2 {
+        padding-top: 17px;
+    }
     img {
         float: left;
         margin-top: 20px;
