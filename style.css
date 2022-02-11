@@ -119,6 +119,11 @@ img {
         margin-top: 45px;
     }
 
+    #p1a {
+        width: 100%;
+        padding-left: 0;
+    }
+
     #p2 {
         padding-top: 15px;
     }
