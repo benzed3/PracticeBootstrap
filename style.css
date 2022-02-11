@@ -191,7 +191,11 @@ img {
     }
 
     img {
-        margin-top: 155px;
+        margin-top: 50px;
+    }
+
+    #p1 {
+        width: 65%;
     }
 
 }
