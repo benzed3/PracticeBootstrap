@@ -217,6 +217,7 @@ img {
 
     .container {
         width: 90%;
+        margin-top: 15px;
     }
 
     img {
@@ -227,6 +228,7 @@ img {
 
     #p1 {
         width: 95%;
+        padding-left: 0;
     }
 
 }
