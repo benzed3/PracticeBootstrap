@@ -235,8 +235,18 @@ img {
 
 @media screen and (max-height: 415px) and (max-width: 897px) {
 
+    .container {
+        margin-bottom: 30px;
+    }
+
     #p1 {
         width: 68%;
+    }
+
+    #footer {
+        clear: both;
+        position: relative;
+        bottom: 0;
     }
 
 }
