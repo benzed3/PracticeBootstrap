@@ -282,6 +282,20 @@ img {
 
 }
 
+@media screen and (max-height: 413px) and (max-width: 915px) {
+
+    .container {
+        margin-bottom: 30px;
+    }
+
+    #footer {
+        clear: both;
+        position: relative;
+        bottom: 0;
+    }
+
+}
+
 @media screen and (max-width: 391px) and (max-height: 845px) {
 
     #p1 {
